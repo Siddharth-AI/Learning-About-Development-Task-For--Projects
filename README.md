@@ -85,7 +85,7 @@ choco install git
 ### Step 1: Install Git Flow (AVH edition)
 
 ```bash
-choco install git-flow-avh
+npm i -g git-flow
 ```
 
 ### Step 2: Initialize Git Flow
